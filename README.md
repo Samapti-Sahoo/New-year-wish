@@ -1,6 +1,14 @@
 # New-year-wish
 A romantic New Year website celebrating love, laughter, and magical moments together — featuring photos, heartfelt captions, and a timeless design.
 <br><br>
+GitHub Repository
+<br>
+https://github.com/Samapti-Sahoo/New-year-wish.git
+<br><br>
+Live Demo 
+<br>
+https://samapti-sahoo.github.io/New-year-wish/
+
 # 💖 New Year Wish
 
 A heartfelt romantic website created to celebrate love, laughter, and magical moments together on New Year’s Eve.
